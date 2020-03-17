@@ -1,3 +1,4 @@
+#test
 FROM microsoft/dotnet:latest
 ENV TEST_1 "foo"
 ENV TEST_2 "foo"
